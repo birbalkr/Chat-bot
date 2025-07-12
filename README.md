@@ -26,7 +26,7 @@ Here are the last 5 commits made to this project:
 4. **[Commit ID 4]** - Fixed bug in user authentication and token handling.
 5. **[Commit ID 5]** - Initial commit with base React app and project setup.
 
-To see the full history of commits, run `git log` or visit the [GitHub repository](https://github.com/yourusername/gemini-chatbot-frontend).
+To see the full history of commits, run `git log` or visit the [GitHub repository](https://github.com/birbalkr/Chat-bot.git).
 
 ---
 
