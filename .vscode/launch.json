@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GeminiChatApplication<gemini-chat>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ai.gemini_chat.GeminiChatApplication",
+            "projectName": "gemini-chat",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
